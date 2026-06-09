@@ -81,31 +81,6 @@ https://github.com/anish-chand-001/piku-crochet-creations
 
 ---
 
-# 📚 Learning Journey
-
-Currently exploring:
-
-* Backend Engineering
-* System Design
-* Real-Time Systems & WebSockets
-* AI Engineering
-* MCP & Agentic AI
-* LLM Integration
-* Scalable Full Stack Architectures
-
----
-
-# 🎯 2026 Goals
-
-* Build Production-Ready Full Stack Applications
-* Master Backend & Distributed Systems Fundamentals
-* Create AI-Powered Products
-* Develop MCP Servers and AI Agents
-* Contribute to Open Source
-* Continuously Learn and Share Knowledge
-
----
-
 <h3 align="center">
 ⭐ Thanks for visiting my profile!
 </h3>
