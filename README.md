@@ -1,23 +1,37 @@
-Hi there 👋, I'm Anish Chand
-Full Stack Developer (MERN) | Backend Engineering Enthusiast | DSA Learner
+<h1 align="center">Hi 👋, I'm Anish Chand</h1>
 
-I'm passionate about building scalable web applications, learning backend architecture, and solving real-world problems through software.
+<h3 align="center">
+Full Stack Developer (MERN) • Backend Engineering Enthusiast • AI & Agentic Systems Explorer
+</h3>
 
-Currently focused on strengthening my skills in:
+<p align="center">
+Building scalable web applications, learning backend architecture, and solving real-world problems through software.
+</p>
 
-MERN Stack Development
-Data Structures & Algorithms
-Backend Engineering
-WebSockets & Real-Time Systems
-System Design Fundamentals
+---
 
-🌐 Connect With Me
+## 🚀 About Me
 
-Open to collaboration, learning opportunities, and tech discussions.
+I'm passionate about building practical software solutions and continuously improving my development skills.
 
-Feel free to connect, solve problems together, or explore new ideas!
+### 🎯 Currently Focused On
 
-<a href="www.linkedin.com/in/anish-chand-577717270">
+- MERN Stack Development
+- Data Structures & Algorithms
+- Backend Engineering
+- System Design Fundamentals
+- WebSockets & Real-Time Systems
+- AI Engineering & LLM Integration
+- MCP & Agentic AI Systems
+- Building Intelligent Full Stack Applications
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anish-chand-577717270">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -28,26 +42,74 @@ Feel free to connect, solve problems together, or explore new ideas!
 <a href="https://leetcode.com/u/anishchand001/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<br>
-<br>
 
-🚀 Featured Projects
+</p>
 
+<p align="center">
+Open to collaboration, learning opportunities, and interesting tech discussions.
+</p>
 
-📊 Nexscore   - Live sports dashboard
+---
 
-Real-time sports analytics dashboard using WebSockets for seamless live score updates, match insights, and event streaming.
+# 🚀 Featured Projects
 
-Tech Used: Mern stack
+## 🏆 NexScore — Live Sports Dashboard
 
-🔗 Repository:
+**Real-time sports analytics dashboard using WebSockets for seamless live score updates, match insights, and event streaming.**
+
+### ⚙️ Tech Stack
+
+MERN Stack • WebSockets • Node.js • MongoDB
+
+🔗 Repository
+
 https://github.com/anish-chand-001/nexscore
 
-🛒 Piku-crochet-creations – E-Commerce Website
+---
 
-A full-stack e-commerce platform with product browsing, cart management, and order processing functionality.
+## 🛒 Piku Crochet Creations — E-Commerce Website
 
-Tech Used: MERN Stack
+**A full-stack e-commerce platform featuring product browsing, cart management, and order processing functionality.**
 
-🔗 Repository:
+### ⚙️ Tech Stack
+
+MERN Stack
+
+🔗 Repository
+
 https://github.com/anish-chand-001/piku-crochet-creations
+
+---
+
+# 📚 Learning Journey
+
+Currently exploring:
+
+* Backend Engineering
+* System Design
+* Real-Time Systems & WebSockets
+* AI Engineering
+* MCP & Agentic AI
+* LLM Integration
+* Scalable Full Stack Architectures
+
+---
+
+# 🎯 2026 Goals
+
+* Build Production-Ready Full Stack Applications
+* Master Backend & Distributed Systems Fundamentals
+* Create AI-Powered Products
+* Develop MCP Servers and AI Agents
+* Contribute to Open Source
+* Continuously Learn and Share Knowledge
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+If you find my projects helpful, consider giving them a star.
+</p>
