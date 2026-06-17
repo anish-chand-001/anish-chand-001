@@ -53,20 +53,6 @@ Open to collaboration, learning opportunities, and interesting tech discussions.
 
 # 🚀 Featured Projects
 
-## 🏆 NexScore — Live Sports Dashboard
-
-**Real-time sports analytics dashboard using WebSockets for seamless live score updates, match insights, and event streaming.**
-
-### ⚙️ Tech Stack
-
-MERN Stack • WebSockets • Node.js • MongoDB
-
-🔗 Repository
-
-https://github.com/anish-chand-001/nexscore
-
----
-
 ## 🛒 Piku Crochet Creations — E-Commerce Website
 
 **A full-stack e-commerce platform featuring product browsing, cart management, and order processing functionality.**
