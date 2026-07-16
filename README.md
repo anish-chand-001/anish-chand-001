@@ -12,11 +12,6 @@ Full Stack Developer (MERN) • Backend Engineering Enthusiast • AI & Agentic 
 Building scalable web applications, learning backend architecture, and solving real-world problems through software.
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=anish-chand-001&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -86,28 +81,26 @@ https://github.com/anish-chand-001/piku-crochet-creations
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-chand-001&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
 > **Enable this after creating the GitHub Action for the snake animation.**
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/anish-chand-001/anish-chand-001/output/github-contribution-grid-snake-dark.svg"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/anish-chand-001/anish-chand-001/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/anish-chand-001/anish-chand-001/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/anish-chand-001/anish-chand-001/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
