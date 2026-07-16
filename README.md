@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anish Chand</h1>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Anish+Chand;Full+Stack+Developer+(MERN);Backend+Engineering+Enthusiast;AI+%26+Agentic+Systems+Explorer;Always+Learning+New+Technologies" />
+</p>
+
 
 <h3 align="center">
 Full Stack Developer (MERN) • Backend Engineering Enthusiast • AI & Agentic Systems Explorer
@@ -6,6 +10,11 @@ Full Stack Developer (MERN) • Backend Engineering Enthusiast • AI & Agentic 
 
 <p align="center">
 Building scalable web applications, learning backend architecture, and solving real-world problems through software.
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anish-chand-001&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -24,6 +33,14 @@ I'm passionate about building practical software solutions and continuously impr
 - AI Engineering & LLM Integration
 - MCP & Agentic AI Systems
 - Building Intelligent Full Stack Applications
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,java,python,cpp,git,github,docker,postgresql,mysql,firebase,vscode&perline=8"/>
+</p>
 
 ---
 
@@ -51,6 +68,8 @@ Open to collaboration, learning opportunities, and interesting tech discussions.
 
 ---
 
+
+
 # 🚀 Featured Projects
 
 ## 🛒 Piku Crochet Creations — E-Commerce Website
@@ -61,9 +80,35 @@ Open to collaboration, learning opportunities, and interesting tech discussions.
 
 MERN Stack
 
-🔗 Repository
+### 🔗 Repository
 
 https://github.com/anish-chand-001/piku-crochet-creations
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-chand-001&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Enable this after creating the GitHub Action for the snake animation.**
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/anish-chand-001/anish-chand-001/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
@@ -72,5 +117,9 @@ https://github.com/anish-chand-001/piku-crochet-creations
 </h3>
 
 <p align="center">
-If you find my projects helpful, consider giving them a star.
+If you find my projects helpful, consider giving them a star ⭐
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=120&section=footer"/>
 </p>
