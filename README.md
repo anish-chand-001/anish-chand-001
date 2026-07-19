@@ -82,9 +82,7 @@ https://github.com/anish-chand-001/piku-crochet-creations
 ---
 
 
-# 🐍 Contribution Snake
 
-> **Enable this after creating the GitHub Action for the snake animation.**
 
 <p align="center">
   <picture>
