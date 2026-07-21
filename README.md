@@ -65,7 +65,36 @@ Open to collaboration, learning opportunities, and interesting tech discussions.
 
 
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects'
+## 🤖 SmartMockAI
+
+**An AI-powered mock interview platform that enables users to prepare for technical interviews through realistic AI-driven interview sessions, personalized feedback, and performance tracking.**
+
+### ✨ Features
+
+* 🔐 Secure Authentication
+* 🤖 AI-Generated Interview Questions
+* 🎙️ Voice-Based Interview Experience
+* 📊 Instant AI Feedback & Evaluation
+* 📈 Interview History & Performance Tracking
+* 💻 Responsive Modern UI
+
+
+### 🚀 Live Project: 
+
+[https://smartmockai-4phv.onrender.com/]
+
+### ⚙️ Tech Stack
+
+React • Vite • Tailwind CSS • Firebase Authentication • OperRouter API-key
+
+### 🔗 Repository
+
+https://github.com/anish-chand-001/smartmockai
+
+
+---
+
 
 ## 🛒 Piku Crochet Creations — E-Commerce Website
 
